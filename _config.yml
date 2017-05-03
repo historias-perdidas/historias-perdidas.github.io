@@ -18,6 +18,7 @@ email: lotofstories@outlook.com
 description: Coleção de histórias perdidas no mundo - desconhecidas para muitos - interessante para todos
 keywords: historia, historias, terror, cyberpunk, ficcao, blog
 permalink: pretty
+github: https://github.com/historias-perdidas/historias-perdidas.github.io
 baseurl: "" # the subpath of your site, e.g. /stories
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
