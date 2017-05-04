@@ -5512,6 +5512,12 @@ button.list-group-item-danger.active:focus {
 .panel-heading + .list-group .list-group-item:first-child {
   border-top-width: 0;
 }
+.footer{
+  margin-top: 40px;
+  padding-top: 18px;
+  padding-bottom: 60px;
+  border-top: 1px solid #2e6da4;
+}
 .list-group + .panel-footer {
   border-top-width: 0;
 }
