@@ -1,6 +1,6 @@
 ---
 title: "Henrid Vesemir, Prior"
-description: "Background de um personagem foda jogar RPG"
+description: "Background foda de um personagem para jogar RPG"
 date: 2017-05-12
 layout: post
 categories: rpg
