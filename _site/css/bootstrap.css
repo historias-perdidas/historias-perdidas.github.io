@@ -1290,13 +1290,9 @@ p {
   margin: 0 0 10px;
   font-family: Arial;
 }
-.np{
-  margin: 0 0 5px;
-  font-size: 1.2em;
-  text-indent: 3em;
-}
 .signature{
-  
+  float: right;
+  margin: 40px 0px 40px 0px;
 }
 .lead {
   margin-bottom: 20px;
@@ -6758,3 +6754,9 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.post p{
+  margin: 0 0 5px;
+  font-size: 1.2em;
+  text-indent: 3em;
+  text-align: justify;
+}
