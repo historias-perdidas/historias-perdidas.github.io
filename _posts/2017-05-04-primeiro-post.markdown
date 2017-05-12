@@ -3,7 +3,7 @@ title: "Primeiro post"
 description: "Explicando o motivo de ter criado este blog"
 date: 2017-04-29
 layout: post
-categories: primeiro-post motivo
+categories: primeiro-post
 comments: true
 author: "Somebody that i used to know"
 ---
